@@ -141,4 +141,73 @@ transition: all linear 0.3s;
 }
 .banner-option .btn-banner:hover {
 background-color: #b5582a;
+
 }
+main {
+    max-width: 1170px;
+    width: 100%;
+    margin: 0 auto;}
+   
+      .popular-tour-head {
+        color: #131318;
+        font-size: 2.5rem;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+      }
+      .popular-head-description {
+        width: 100%;
+        max-width: 500px;
+        color: rgba(19, 19, 24, 0.7);
+        font-size: 1rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        margin: 24px 0;
+      }
+      .popular-description ul li {
+        max-width: 500px;
+        width: 100%;
+        color: rgba(19, 19, 24, 0.7);
+        font-family: Mulish;
+        font-size: 1rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        margin-bottom: 16px;
+      }
+      .popular-description-finished {
+        max-width: 500px;
+        width: 100%;
+        color: #5a5a5d;
+        font-family: Mulish;
+        font-size: 1rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        margin-bottom: 32px;
+      }
+      .popular-tour-section .banner-btn {
+        width: 174px;
+        height: 52px;
+        border-radius: 8px;
+        background: #ff5400;
+        color: #fff;
+        text-align: center;
+        font-size: 1.2rem;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        border: none;
+        transition: all linear 0.3s;
+      }
+      .popular-tour-section .banner-btn:hover {
+        background-color: #b5582a;
+      }
+      .popular-tour {
+        margin: 100px 0;
+        display: flex;
+        justify-content: space-between;
+      }
+      .main-container-img img {
+        width: 100%;
