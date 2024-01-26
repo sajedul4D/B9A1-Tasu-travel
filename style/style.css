@@ -436,3 +436,42 @@ flex-shrink: 0;
       background: rgba(255, 255, 255, 0.8);
       backdrop-filter: blur(2.5px);
     }
+    .place-section-head {
+      max-width: 423px;
+      width: 100%;
+      color: #131318;
+      font: size 2.5rem;
+      font-style: normal;
+      font-weight: 800;
+      line-height: 60px;
+    }
+    .place-description {
+      max-width: 530px;
+      width: 100%;
+      color: #5a5a5d;
+      font-size: 1rem;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 26px;
+      margin: 24px 0;
+    }
+    .place-section-list ul li {
+      max-width: 518px;
+      width: 100%;
+      color: #131318;
+      font-size: 1rem;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 26px;
+      margin-bottom: 16px;
+    }
+    .place-section {
+      display: flex;
+    }
+    .banner-video-section video {
+      width: 610px;
+height: 374px;
+flex-shrink: 0;
+border-radius: 16px;
+
+    }
